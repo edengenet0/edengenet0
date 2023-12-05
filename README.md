@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Eden Abera (@edengenet0)
+- 👀 I’m interested in mobile application development and web application development.
+- 🌱 I’m currently learning Flutter and other frameworks.
+- 💞️ I’m looking to collaborate on remote full-time or part-time jobs.
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0XTb%2FuFpQGGPVgaeAdIxEA%3D%3D
+  - Email: edengenet157@gmail.com
+  - Telegram: https://t.me/Edengenet_A
