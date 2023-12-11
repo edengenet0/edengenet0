@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Eden Abera</h1>
 <h3 align="center">A passionate software developer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on [Gereb Delivery](https://gereb.net/)
+- 🔭 I’m currently working in **Private Company.**
 
 - 🌱 I’m currently learning **React Native , Ionic and Flutter.**
 
+- 👯 I’m looking to collaborate on **software development projects!**
+  
 - 👨‍💻 All of my projects are available at [edengenet0.github.io](edengenet0.github.io)
+
+- 💬 Ask me about **Flutter ,Laravel , HTML, CSS , JS and Bootstrap.**
 
 - 📫 How to reach me **edengenet157@gmail.com**
 
-- ⚡ Fun fact **Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is recognized as the world's first programmer. She wrote the world's first algorithm intended to be processed by a machine, and her work laid the foundation for modern computer programming. #WomenInTech**
+- ⚡ Fun fact : **Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is recognized as the world's first programmer. She wrote the world's first algorithm intended to be processed by a machine, and her work laid the foundation for modern computer programming. #WomenInTech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edengenet0&show_icons=true&locale=en" alt="edengenet0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edengenet0&" alt="edengenet0" /></p>
-
