@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **software development projects!**
   
-- 👨‍💻 All of my projects are available at [edengenet0.github.io](edengenet0.github.io)
+- 👨‍💻 All of my projects are available at https://github.com/edengenet0
 
 - 💬 Ask me about **Flutter ,Laravel , HTML, CSS , JS and Bootstrap.**
 
