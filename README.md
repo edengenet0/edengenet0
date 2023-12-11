@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eden Abera</h1>
 <h3 align="center">A passionate software developer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on [Gereb Dlievery](https://gereb.net/)
+- 🔭 I’m currently working on [Gereb Delivery](https://gereb.net/)
 
 - 🌱 I’m currently learning **React Native , Ionic and Flutter.**
 
